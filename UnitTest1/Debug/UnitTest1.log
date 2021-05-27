@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\4 сем аистд\kursovaya\kursovaya\FordFulkerson.h(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\4 сем аистд\kursovaya\Debug\UnitTest1.lib и объект D:\4 сем аистд\kursovaya\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\4 сем аистд\kursovaya\Debug\UnitTest1.dll
